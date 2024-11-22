@@ -1,0 +1,4 @@
+ [2024-11-22 16:48:23,565 ] 97 werkzeug- WARNING -  * Debugger is active!
+ [2024-11-22 16:48:23,583 ] 97 werkzeug- INFO -  * Debugger PIN: 117-672-856
+ [2024-11-22 16:48:36,252 ] 15 root- INFO - Error occured in python script name [C:\ML_pipeline_project\ML_pipeline_project\app.py] line number [12] error message [We are testing logging our custom file]
+ [2024-11-22 16:48:36,254 ] 97 werkzeug- INFO - 127.0.0.1 - - [22/Nov/2024 16:48:36] "GET / HTTP/1.1" 200 -
