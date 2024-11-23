@@ -1,8 +1,8 @@
-from flask import Flask
-import logging
-from src.exception import CustomException
-import os
 import sys
+import os
+from flask import Flask
+from src.exception import CustomException
+import logging
 
 app = Flask(__name__)
 
